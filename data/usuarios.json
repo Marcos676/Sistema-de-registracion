@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Gabriel",
+    "apellido": "Patiño",
+    "email": "123@123",
+    "pass": "$2b$12$5n/hRdt78twD6ZzdwdPEiuJcQxdEMEMXOjJMBEykoi2rhiZzcoiEu",
+    "avatar": "avatar-1612831325276.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Marcos",
+    "apellido": "Patiño",
+    "email": "1234@1234",
+    "pass": "$2b$12$KbVVNoCnWkjZoq1H5h98puwj4FgOfdoy.wWEvcTb3d.IK.y/9O.U6",
+    "avatar": "avatar-1612835146634.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Alejandro",
+    "apellido": "Patiño",
+    "email": "12@12",
+    "pass": "$2b$12$X8rJoN6cl57ubAnDs2IB/.Xr0GgvWvz6zAVaDwppF96kWdjGJiOHO",
+    "avatar": "avatar-1612835365346.jpg"
+  }
+]
