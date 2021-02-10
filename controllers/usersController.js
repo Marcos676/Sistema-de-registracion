@@ -5,9 +5,7 @@ const usuariosList = getUsers
 
 module.exports = {
     register: (req, res) => {
-        res.render('register',{
-            error: 'undefined'
-        })
+        res.render('register')
         
     },
     processRegister: (req, res, next) => {
@@ -61,9 +59,7 @@ module.exports = {
         })
     },
     login: (req, res) => {
-        res.render('login',{
-            error: 'undefined'
-        })
+        res.render('login')
     },
     processLogin: (req, res) => {
         const {email, pass} = req.body
